@@ -6,7 +6,6 @@
 
 </br>
 </br>
-Link : 
 
 
 ##  :fire: TRY IT OUT :fire:
@@ -22,5 +21,4 @@ Included in the repository are :
 📹 
 </br>
 </br>
-#### Note:
-> Built using HTML, CSS, Javascript
+
